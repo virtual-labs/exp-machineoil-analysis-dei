@@ -19,7 +19,7 @@ The chromatographic profile of the sample was simple, showing different peaks of
   <strong>Fig. 1: Chromatogram of machine oil</strong>
   <br/><br/>
   <strong>Table 1: Peaks of machine oil and their Rf value</strong>
-  <br/><br/>
+ 
 
 | Peak No. | R<sub>f</sub> |
 |----------|---------------|
@@ -33,6 +33,8 @@ The chromatographic profile of the sample was simple, showing different peaks of
 | 8        | 0.57          |
 | 9        | 0.86          |
 | 10       | 0.91          |
+
+ <br/><br/>
 
 <br/><br/>
   <img src="images/obs_exp6_2.jpg" alt="obs_exp6_2" /><br/>
@@ -53,7 +55,7 @@ The linearity of the proposed method was confirmed in the range of 2-16 µg of s
   <strong>Fig. 5: Calibration curve of substance 1 in machine oil</strong>
   <br/><br/>
   <strong>Table 2: Substance 1 content in milk samples</strong>
-  <br/><br/>
+
 
 | Milk Samples (%) | Substance 1 (%) | SD (%) |
 |------------------|-----------------|--------|
@@ -61,6 +63,7 @@ The linearity of the proposed method was confirmed in the range of 2-16 µg of s
 | Milk sample 1    | 0.32            | ± 0.05 |
 | Milk sample 2    | 0.40            | ± 0.07 |
 | Milk sample 3    | 0.49            | ± 0.02 |
+<br/><br/>
 </div>
 
 The linearity, accuracy in terms of recovery % and precision was considered for the method. Validation of the method at three concentration levels was carried out by the standard recovery formula returned a mean of 85%. Precision (repeatability) was determined by running a minimum of four analyses and the coefficient of variability was found to be 0.365 %. The limit of detection (LOD) and quantification (LOQ) was found to be 0.156 and 0.475 µg respectively.
