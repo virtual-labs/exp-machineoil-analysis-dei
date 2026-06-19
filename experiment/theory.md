@@ -7,7 +7,7 @@
 - **Diethyl ether**
 - **n-Hexane**
 - **Sulphuric acid**
-- 
+
 ## Theory
 
 Milk adulteration is a serious public health concern. Among various adulterants, the addition of machine oil or other mineral oils is particularly hazardous. This adulteration is practiced to increase the fat content artificially or to mask the dilution of milk with water. The presence of machine oil in milk poses severe health risks, including gastrointestinal disturbances, lipid pneumonia, and potential carcinogenic effects upon chronic exposure.
