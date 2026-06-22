@@ -1,4 +1,4 @@
-## Procedure
+### Procedure
 
 - A stock solution (40 mg/ml) of standard machine oil was prepared in n-Hexane and sonicated for 10 minutes over an ultrasonic bath.
 - A 20cm × 10cm HPTLC plate coated with silica gel 60 F 254 and alumina 60 F 254 (E. Merck, Darmstadt, Germany) was used for analysis.
@@ -10,7 +10,7 @@
 - Plates were derivatized using 5% sulphuric acid solution in methanol.
 - Plates were evaluated by densitometry at 450 nm with a Camag Scanner 3 for quantification.
 
-## Observation
+### Observation
 
 The chromatographic profile of the sample was simple, showing different peaks of Machine oils (Fig. 1) but we select the sharp and major peak (Fig. 2). Machine oil is not UV active, so the plates were derivatized using the 5 % sulphuric acid in methanol (Fig. 3). Peak of machine oil was identified using the solvent system [n-Hexane: Diethyl ether: MeOH:: 7:2:1.5 (v/v)] with the R<sub>f</sub> value of 0.38 ± 0.02 at 450 nm (Fig. 4). Table 1 shows the appearance of different peaks in machine oil and their R<sub>f</sub> values.
 
