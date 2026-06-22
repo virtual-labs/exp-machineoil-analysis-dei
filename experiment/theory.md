@@ -1,18 +1,18 @@
 
 
-## Reagents
+### Reagents
 
-- **Machine oil standard**
-- **MeOH (Methanol)**
-- **Diethyl ether**
-- **n-Hexane**
-- **Sulphuric acid**
+- Machine oil standard
+- MeOH (Methanol)
+- Diethyl ether
+- n-Hexane
+- Sulphuric acid
 
-## Theory
+### Theory
 
 Milk adulteration is a serious public health concern. Among various adulterants, the addition of machine oil or other mineral oils is particularly hazardous. This adulteration is practiced to increase the fat content artificially or to mask the dilution of milk with water. The presence of machine oil in milk poses severe health risks, including gastrointestinal disturbances, lipid pneumonia, and potential carcinogenic effects upon chronic exposure.
 
-### Principle of Detection
+#### Principle of Detection
 
 Mineral oils, including machine oils, are hydrocarbons that are non-polar in nature. They do not absorb UV light and are not easily detectable by conventional spectroscopic methods without derivatization. However, they can be separated from the polar components of milk (such as proteins, lactose, and water) using appropriate extraction and chromatographic techniques.
 
@@ -24,7 +24,7 @@ The principle of the method relies on the following:
 
 3. **Visualization/Derivatization:** Since machine oil is not UV active, derivatization is required for visualization. Sulphuric acid is commonly used as a charring agent. When the plate is sprayed with sulphuric acid and heated, organic compounds, including hydrocarbons, are oxidized and charred to produce dark-colored spots that can be visualized and quantified densitometrically.
 
-### Application in HPTLC-Densitometry
+#### Application in HPTLC-Densitometry
 
 HPTLC combined with densitometry provides a robust and reproducible method for the qualitative and quantitative analysis of machine oil in milk. The procedure generally involves the following steps:
 
@@ -36,7 +36,7 @@ HPTLC combined with densitometry provides a robust and reproducible method for t
 
 4. **Densitometric Scanning:** The derivatized plate is scanned using a densitometer in the absorbance/reflectance mode. The peak area or height corresponding to machine oil is measured and quantified against a calibration curve.
 
-### Validation and Linearity
+#### Validation and Linearity
 
 For reliable quantification, the method must be validated. A linear calibration curve is established by plotting the peak area against the concentration of standard machine oil applied. Method validation parameters such as linearity, precision (repeatability and intermediate precision), accuracy (recovery studies), limit of detection (LOD), and limit of quantification (LOQ) are evaluated to ensure the method's suitability for routine analysis.
 
