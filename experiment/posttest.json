@@ -4,7 +4,7 @@
   "questions": [
     {
       
-      "question": "1. Partial hydrogenation of vegetative oils in the presence of Ni catalyst at 200°C gives",
+      "question": "1. Partial hydrogenation of vegetative oils in the presence of Ni catalyst at 200°C gives-",
       "answers": {
         "a": "Vanaspati ghee",
         "b": "Margarine",
@@ -21,7 +21,7 @@
     },
     {
       
-      "question": "2. The degree of unsaturation of a fat can be determined by means of its",
+      "question": "2. The degree of unsaturation of a fat can be determined by means of its-",
       "answers": {
         "a": "Iodine number",
         "b": "Octane number",
@@ -37,7 +37,7 @@
       "correctAnswer": "a"
     },
     {
-      "question": "3. Which of the following compounds will not be classified as lipids",
+      "question": "3. Which of the following compounds will not be classified as lipids?",
       "answers": {
         "a": "Fats",
         "b": "Waxes",
@@ -54,7 +54,7 @@
     },
     {
      
-      "question": "4. The saponification number of a fat is",
+      "question": "4. The saponification number of a fat is-",
       "answers": {
         "a": "The number of grams of iodine absorbed by 100 grams of fat",
         "b": "The number of milligrams of KOH required to saponify 1 gram of fat",
@@ -71,7 +71,7 @@
     },
     {
      
-      "question": "5. Rancidity in fats and oils is caused by",
+      "question": "5. Rancidity in fats and oils is caused by-",
       "answers": {
         "a": "Hydrolysis",
         "b": "Oxidation",
