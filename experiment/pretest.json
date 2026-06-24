@@ -4,7 +4,7 @@
   "questions": [
     {
     
-      "question": "1. Oil samples are soluble in which solvent",
+      "question": "1. Oil samples are soluble in which solvent-",
       "answers": {
         "a": "Water",
         "b": "Hexane",
@@ -21,7 +21,7 @@
     },
     {
    
-      "question": "2. Fats and oils are",
+      "question": "2. Fats and oils are-",
       "answers": {
         "a": "Monoesters of glycerol",
         "b": "Diesters of glycerol",
@@ -38,7 +38,7 @@
     },
     {
     
-      "question": "3. Liquid oils can be converted to solid fats by",
+      "question": "3. Liquid oils can be converted to solid fats by-",
       "answers": {
         "a": "Hydrogenation",
         "b": "Saponification",
@@ -55,7 +55,7 @@
     },
     {
 
-      "question": "4. A wax is",
+      "question": "4. A wax is-",
       "answers": {
         "a": "a nonpolar solid",
         "b": "a long chain alcohol",
@@ -72,7 +72,7 @@
     },
     {
     
-      "question": "5. Alkaline hydrolysis of oils (or fats) is called:",
+      "question": "5. Alkaline hydrolysis of oils (or fats) is called-",
       "answers": {
         "a": "Saponification",
         "b": "Fermentation",
