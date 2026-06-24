@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+
+  "questions": [
+    {
+      
+      "question": "1. Partial hydrogenation of vegetative oils in the presence of Ni catalyst at 200°C gives-",
+      "answers": {
+        "a": "Vanaspati ghee",
+        "b": "Margarine",
+        "c": "Both of these",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Incorrect. Partial hydrogenation of vegetable oils gives both vanaspati ghee and margarine.",
+        "b": "Incorrect. Both are produced, not just margarine.",
+        "c": "Correct. Partial hydrogenation of vegetable oils in presence of Ni catalyst at 200°C produces both vanaspati ghee and margarine.",
+        "d": "Incorrect because both are produced."
+      },
+      "correctAnswer": "c"
+    },
+    {
+      
+      "question": "2. The degree of unsaturation of a fat can be determined by means of its-",
+      "answers": {
+        "a": "Iodine number",
+        "b": "Octane number",
+        "c": "Saponification number",
+        "d": "Melting Point"
+      },
+      "explanations": {
+        "a": "Correct. Iodine number measures the degree of unsaturation by determining the amount of iodine absorbed by the fat.",
+        "b": "Incorrect. Octane number is a measure of fuel quality for petrol.",
+        "c": "Incorrect. Saponification number measures average molecular weight of fatty acids.",
+        "d": "Incorrect. Melting point is affected by unsaturation but is not the standard measure."
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "3. Which of the following compounds will not be classified as lipids?",
+      "answers": {
+        "a": "Fats",
+        "b": "Waxes",
+        "c": "Soaps",
+        "d": "Oils"
+      },
+      "explanations": {
+        "a": "Incorrect. Fats are lipids.",
+        "b": "Incorrect. Waxes are lipids.",
+        "c": "Correct. Soaps are salts of fatty acids, not lipids. They are derived from lipids but are not classified as lipids.",
+        "d": "Incorrect. Oils are lipids."
+      },
+      "correctAnswer": "c"
+    },
+    {
+     
+      "question": "4. The saponification number of a fat is-",
+      "answers": {
+        "a": "The number of grams of iodine absorbed by 100 grams of fat",
+        "b": "The number of milligrams of KOH required to saponify 1 gram of fat",
+        "c": "The number of grams of NaOH required to saponify 1 gram of fat",
+        "d": "The temperature at which the fat melts"
+      },
+      "explanations": {
+        "a": "Incorrect. This is the definition of iodine number.",
+        "b": "Correct. Saponification number is defined as the number of milligrams of KOH required to saponify 1 gram of fat or oil.",
+        "c": "Incorrect. KOH is used, not NaOH, and the unit is milligrams, not grams.",
+        "d": "Incorrect. This is melting point."
+      },
+      "correctAnswer": "b"
+    },
+    {
+     
+      "question": "5. Rancidity in fats and oils is caused by-",
+      "answers": {
+        "a": "Hydrolysis",
+        "b": "Oxidation",
+        "c": "Hydrogenation",
+        "d": "Saponification"
+      },
+      "explanations": {
+        "a": "Incorrect. Hydrolysis breaks down fats into fatty acids and glycerol.",
+        "b": "Correct. Rancidity is primarily caused by oxidation of unsaturated fatty acids in the presence of oxygen, light, and heat.",
+        "c": "Incorrect. Hydrogenation actually prevents rancidity by reducing unsaturation.",
+        "d": "Incorrect. Saponification is alkaline hydrolysis, not rancidity."
+      },
+      "correctAnswer": "b"
+    }
+  ]
+}

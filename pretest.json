@@ -1,0 +1,91 @@
+{
+  "version": 2.0,
+  
+  "questions": [
+    {
+    
+      "question": "1. Oil samples are soluble in which solvent-",
+      "answers": {
+        "a": "Water",
+        "b": "Hexane",
+        "c": "Methanol",
+        "d": "Benzene"
+      },
+      "explanations": {
+        "a": "Incorrect. Oils are non-polar and insoluble in water (polar).",
+        "b": "Correct. Hexane is a non-polar solvent and oils are soluble in it.",
+        "c": "Incorrect. Methanol is polar and oils are not soluble in it.",
+        "d": "Incorrect. While benzene is non-polar, hexane is the more commonly used solvent for oil extraction."
+      },
+      "correctAnswer": "b"
+    },
+    {
+   
+      "question": "2. Fats and oils are-",
+      "answers": {
+        "a": "Monoesters of glycerol",
+        "b": "Diesters of glycerol",
+        "c": "Triesters of glycerol",
+        "d": "Diesters of glycol"
+      },
+      "explanations": {
+        "a": "Incorrect. Monoesters have one fatty acid attached to glycerol.",
+        "b": "Incorrect. Diesters have two fatty acids attached to glycerol.",
+        "c": "Correct. Fats and oils are triglycerides (triesters of glycerol with three fatty acid molecules).",
+        "d": "Incorrect. Glycol esters are not fats or oils."
+      },
+      "correctAnswer": "c"
+    },
+    {
+    
+      "question": "3. Liquid oils can be converted to solid fats by-",
+      "answers": {
+        "a": "Hydrogenation",
+        "b": "Saponification",
+        "c": "Hydrolysis",
+        "d": "Oxidation of double bonds"
+      },
+      "explanations": {
+        "a": "Correct. Hydrogenation adds hydrogen to unsaturated fatty acids, converting liquid oils to solid fats (e.g., vanaspati ghee).",
+        "b": "Incorrect. Saponification is hydrolysis of oils with alkali to form soap.",
+        "c": "Incorrect. Hydrolysis breaks down oils into fatty acids and glycerol.",
+        "d": "Incorrect. Oxidation of double bonds causes rancidity, not solidification."
+      },
+      "correctAnswer": "a"
+    },
+    {
+
+      "question": "4. A wax is-",
+      "answers": {
+        "a": "a nonpolar solid",
+        "b": "a long chain alcohol",
+        "c": "a triacylglycerol",
+        "d": "none of these"
+      },
+      "explanations": {
+        "a": "Correct. Waxes are nonpolar solids composed of long-chain fatty acid esters with long-chain alcohols.",
+        "b": "Incorrect. A wax is an ester of a long-chain alcohol and a fatty acid, not just an alcohol.",
+        "c": "Incorrect. Triacylglycerols are fats and oils, not waxes.",
+        "d": "Incorrect because (a) is correct."
+      },
+      "correctAnswer": "a"
+    },
+    {
+    
+      "question": "5. Alkaline hydrolysis of oils (or fats) is called-",
+      "answers": {
+        "a": "Saponification",
+        "b": "Fermentation",
+        "c": "Diazotisation",
+        "d": "Rancidification"
+      },
+      "explanations": {
+        "a": "Correct. Saponification is the alkaline hydrolysis of fats and oils to produce soap and glycerol.",
+        "b": "Incorrect. Fermentation is microbial breakdown of carbohydrates.",
+        "c": "Incorrect. Diazotisation is a reaction involving diazonium salts.",
+        "d": "Incorrect. Rancidification is oxidative degradation of fats."
+      },
+      "correctAnswer": "a"
+    }
+  ]
+}
